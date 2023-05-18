@@ -1,5 +1,5 @@
-import streamlit 
+import streamlit
 
-streamlit.title("My Parents are very Happy Now")
+streamlit.title('My Parents are very Happy Now')
 
-streamlit.text("Hey I am Ashwin Betal")
+streamlit.text('Hey I am Ashwin Betal')
